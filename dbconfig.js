@@ -5,7 +5,7 @@ var pool  = mysql.createPool({
   queueLimit: 100,
   host : '127.0.0.1',
   port : 3306,
-  user : 'lol',
+  user : 'lmao',
   password : 'dplyr2020',
   database : 'dplyrlol',
   connectTimeout : 10000,
